@@ -268,3 +268,8 @@ Miscellaneous
   `recipes and best practices
   <https://docs.python.org/3/library/secrets.html#recipes-and-best-practices>`_
   for using Python's :py:mod:`secrets` module to generate passwords.
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
